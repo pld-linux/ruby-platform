@@ -5,7 +5,7 @@
 Summary:	Naive platform detection for Ruby
 Name:		ruby-platform
 Version:	0.4.0
-Release:	1
+Release:	2
 License:	LGPL v2+
 Group:		Development/Languages
 Source0:	http://rubygems.org/downloads/%{gem_name}-%{version}.gem
